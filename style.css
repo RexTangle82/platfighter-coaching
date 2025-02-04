@@ -85,6 +85,7 @@ h2 {
     font-size: 36px;
     color: 1F2937;
     font-weight: 900;
+    text-decoration: underline #3882F6 6px;
 }
 
 .courses {
@@ -104,4 +105,33 @@ h2 {
 
 .course-item img {
     border-radius: 15px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #3882F6;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+
+.container p {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+    margin: 0;
+}
+
+.container div {
+    font-weight: 500;
+    align-self: end;
 }
