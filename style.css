@@ -1,9 +1,10 @@
+
 .header {
     display: flex;
     justify-content: space-around;
 }
 
-.header img {
-    width: 500px;
-    height: auto;
+.logo {
+    font-weight: 900;
+    font-size: 30px;
 }
