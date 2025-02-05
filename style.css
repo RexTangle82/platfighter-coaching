@@ -1,5 +1,6 @@
 * {
     font-family: Roboto, serif;
+    box-sizing: border-box;
 }
 
 body {
@@ -12,7 +13,8 @@ h2,
 }
 
 .header,
-.banner {
+.banner,
+.footer {
     background-color: #1F2937;
 }
 
@@ -134,4 +136,51 @@ h2 {
 .container div {
     font-weight: 500;
     align-self: end;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 75px 100px;
+}
+
+.call-to-action-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    background-color: #3882F6;
+    padding: 35px 100px;
+    border-radius: 7px;
+    color: #F9FAF8;
+}
+
+#strong {
+    font-weight: 800;
+    font-size: 17px;
+}
+
+#weak {
+    font-size: 14px;
+}
+
+.call-to-action-container button {
+    background-color: transparent;
+    border-color: #F9FAF8;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 4px 25px;
+    color: #F9FAF8;
+    font-weight: 800;
+    max-height: 57px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    padding: 25px;
+    font-size: 14px;
 }
