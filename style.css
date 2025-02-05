@@ -26,11 +26,15 @@ h2,
 
 .header-right {
     display: flex;
-    gap: 24px;
+    gap: 30px;
+    text-decoration: underline;
+    text-underline-offset: 2px;
 }
 
 .logo {
     font-size: 24px;
+    font-style: italic;
+    font-weight: 700;
 }
 
 .banner {
@@ -97,17 +101,23 @@ h2 {
     justify-content: center;
 }
 
+.course-title {
+    margin-top: 4px;
+}
+
 .course-item {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
     width: 150px;
+    font-size: large;
+    font-weight: 700;
 }
 
 .course-item img {
     border-radius: 15px;
-    border-width: 3px;
+    border-width: 4px;
     border-style: solid;
     border-color: #3882F6;
 }
@@ -118,6 +128,10 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.company-name {
+    font-weight: 200;
 }
 
 .container {
@@ -136,6 +150,7 @@ h2 {
 .container div {
     font-weight: 500;
     align-self: end;
+    font-style: italic;
 }
 
 .call-to-action {
