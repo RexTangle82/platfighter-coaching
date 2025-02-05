@@ -2,3 +2,7 @@ This is a project I am working on as part of [The Odin Project](https://www.theo
 
 ## Special thanks to:
 - [Unsplash](https://unsplash.com/) for providing the images in use for this project.
+- <a href="https://unsplash.com/@fakurian?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Milad Fakurian</a> on <a href="https://unsplash.com/photos/a-purple-object-with-a-shadow-on-the-ground-Em8glt2OLt0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> for the course images!
+- <a href="https://unsplash.com/@stemlist?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Stem List</a> on <a href="https://unsplash.com/photos/group-of-people-playing-online-games-ryRU-cd1yas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> for the banner image!
+      
+      
